@@ -135,7 +135,7 @@ i.fa-repeat {
     cursor: pointer;
 }
 
-@media screen and (max-width: 400px) {
+/* @media screen and (max-width: 400px) {
     .player {
         margin-bottom: 20px;
         margin-left: 20px;
@@ -150,4 +150,4 @@ i.fa-repeat {
     .playpause-track, .prev-track, .next-track, .shuffle, .repeat {
         padding: 12px;
     }
-}
+} */
