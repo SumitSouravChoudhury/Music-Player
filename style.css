@@ -5,6 +5,7 @@ html {
 }
 
 body {
+    width: auto;
     background-color: lightgreen;
     transition: background-color .5s;
 }
