@@ -10,8 +10,8 @@ body {
 }
 
 .player {
-    height: 100vh;
-    margin: 20px;
+    height: 95vh;
+    width: 100%;
     display: flex;
     align-items: center;
     flex-direction: column;
