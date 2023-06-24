@@ -9,10 +9,6 @@ body {
     transition: background-color .5s;
 }
 
-.container {
-    min-width: 310px;
-}
-
 .player {
     height: 90vh;
     display: flex;
@@ -143,8 +139,8 @@ i.fa-repeat {
     }
 
     .track-art {
-        height: 220px;
-        width: 220px;
+        height: 320px;
+        width: 320px;
     }
 
     .playpause-track, .prev-track, .next-track, .shuffle, .repeat {
