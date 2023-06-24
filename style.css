@@ -9,6 +9,10 @@ body {
     transition: background-color .5s;
 }
 
+.container {
+    min-width: 310px;
+}
+
 .player {
     height: 90vh;
     display: flex;
@@ -133,7 +137,6 @@ i.fa-repeat {
 
 @media screen and (max-width: 400px) {
     .player {
-        height: auto;
         margin-bottom: 20px;
         margin-left: 20px;
         margin-right: 20px;
