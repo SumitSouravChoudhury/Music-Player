@@ -5,7 +5,6 @@ html {
 }
 
 body {
-    width: auto;
     background-color: lightgreen;
     transition: background-color .5s;
 }
@@ -34,10 +33,6 @@ body {
     background-size: cover;
     background-position: center;
     border-radius: 15%;
-}
-
-.now-playing {
-    font-size: 1rem;
 }
 
 .track-name {
@@ -138,6 +133,7 @@ i.fa-repeat {
 
 @media screen and (max-width: 400px) {
     .player {
+        height: auto;
         margin-bottom: 20px;
         margin-left: 20px;
         margin-right: 20px;
